@@ -38,9 +38,8 @@
 
 
 
-![Screenshot 2024-11-27 104658](https://github.com/user-attachments/assets/f72833e3-9d19-492a-b5f9-579fe0cdcbf3)
 
-
+![Screenshot 2024-11-27 104658](https://github.com/user-attachments/assets/2d8f5ac1-abc1-417d-839d-ddf9511d1d74)
 
 
 
