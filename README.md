@@ -35,8 +35,17 @@
 ### Output:
 
 
-### Name:
-### Register Number:
+
+
+
+![Screenshot 2024-11-27 104658](https://github.com/user-attachments/assets/f72833e3-9d19-492a-b5f9-579fe0cdcbf3)
+
+
+
+
+
+### Name:somalarajurohini
+### Register Number:24000337
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
